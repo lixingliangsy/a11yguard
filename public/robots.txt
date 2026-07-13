@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://a11yguard.com/sitemap.xml
